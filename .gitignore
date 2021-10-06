@@ -1,0 +1,10 @@
+*.iml
+.idea
+build/
+allure-results/
+.allure
+/artifacts/diffImage.png
+debug.log
+# mvn target folder
+target/
+src/test/resources/Failed/
